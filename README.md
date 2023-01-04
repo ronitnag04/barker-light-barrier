@@ -4,7 +4,7 @@ This project was inspired by the [Over-engineered dual core light barrier](https
 ## Circuit:
 <img src="Media\thumbnail.JPEG" alt="Light Barrier Circuit" width="400px"/>
 
-Click [here](/Media/Demo.MP4) to see the light barrier in action.
+Click [here](https://user-images.githubusercontent.com/115322502/210600984-9ca8e12c-8918-4f83-919e-24dda0934477.MP4) to see the light barrier in action.
 
 ## How it works:
 Instead of using infrared light to form a detection barrier, this circuit implements visible light emitted by the red LED in the form of the Barker-7 code. Because the sensor (photoresister) measures the light emitted by the LED and the ambient light (namely the 60Hz light from the ceiling lightbulbs), the circuit must be able to dicern from the LED light and the ambient light.
